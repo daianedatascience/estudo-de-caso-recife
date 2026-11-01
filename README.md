@@ -1,5 +1,5 @@
 
-# 📊 Inteligência de Dados e Monitoramento de Redes
+# 📊 Inteligência de dados e monitoramento de redes
 
 ### Estudo de caso | Rede Municipal de Ensino do Recife
 
